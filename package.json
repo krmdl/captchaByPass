@@ -1,0 +1,18 @@
+{
+  "name": "bypasser-main",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "captchaBypasser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer-extra": "^3.3.1",
+    "puppeteer-extra-plugin-recaptcha": "^3.6.3",
+    "python-shell": "^3.0.1"
+  }
+}
